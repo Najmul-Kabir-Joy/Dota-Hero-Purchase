@@ -1,0 +1,15 @@
+.image img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid grey;
+    border-radius: 50%;
+}
+.cards{
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    margin: 15px;
+    padding: 5px;
+}
+.fa-star{
+    color: goldenrod;
+}

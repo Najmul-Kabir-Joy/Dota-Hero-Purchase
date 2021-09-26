@@ -1,0 +1,9 @@
+.card_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.shop_container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
